@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "q2TxLrKrYnNxuktuwkDWHQmPmouyvt9PFcS9vBZc5CW3SyTbwyLPtmSO2BBOToqkV9DnrgF2J2eFY7xB8CvwZQ==",
+  "success": true,
+  "projectFilePath": "/home/brum/_projects/DotnetReadCsv/DotnetHomeChallenge/DotnetHomeChallenge.csproj",
+  "expectedPackageFiles": [
+    "/home/brum/.nuget/packages/commandlineparser/2.8.0/commandlineparser.2.8.0.nupkg.sha512",
+    "/home/brum/.nuget/packages/tinycsvparser/2.6.1/tinycsvparser.2.6.1.nupkg.sha512",
+    "/home/brum/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
